@@ -1,0 +1,20 @@
+.tablehead h1{
+  
+    font-weight:700;
+    text-transform:uppercase;
+  
+}
+.tablehead{
+    display:flex;
+    align-items:center;
+}
+.tablehead button{
+    position:absolute;
+    right:15px;
+    font-weight: bold;
+    top:63px;
+
+}
+.tablehead button:hover{
+    background-color:green;
+}

@@ -1,0 +1,23 @@
+.navbar{
+    display:flex;
+    width:100%;
+    background-color:blue;
+    gap:15px;
+    font-weight: 700;
+    color:white;
+    justify-content:center;
+}
+.homeicon{
+    position:absolute;
+    left:0;
+    top:15px;
+}
+
+.navbar p,.homeicon {
+    color:white;
+
+}
+.navbar p:hover{
+    color:rgb(187, 181, 181);
+
+}
